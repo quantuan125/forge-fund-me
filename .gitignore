@@ -12,6 +12,8 @@ docs/
 
 # Dotenv file
 .env
+.git
 broadcast/
 lib/
 .gas-snapshot
+.github/
